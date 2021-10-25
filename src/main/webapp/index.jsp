@@ -5,5 +5,6 @@
 <h2>This is deploying ansible playbook</h2>
 <h2>This is the deployment after the troubleshooting</h2>
 <h1>%date%<h1>
+<h3>Date : <%= (new java.util.DAte()).toLocalString()%> 		
 </body>
 </html>
