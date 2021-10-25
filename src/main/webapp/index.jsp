@@ -4,5 +4,6 @@
 <h2>This is testing jen slave 2 second test</h2>
 <h2>This is deploying ansible playbook</h2>
 <h2>This is the deployment after the troubleshooting</h2>
+<h1>%date%<h1>
 </body>
 </html>
