@@ -5,6 +5,7 @@
 <h2>This is deploying ansible playbook</h2>
 <h2>This is the deployment after the troubleshooting</h2>
 <h1>%date%<h1>
-		<h3>Date : Today</h3> 		
+		<h3>Date : Today</h3>
+<h1> New Version of Java Web App -- Deploying on Kubernetes Cluster...... </h2>
 </body>
 </html>
