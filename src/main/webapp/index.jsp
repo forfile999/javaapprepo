@@ -7,5 +7,7 @@
 <h1>%date%<h1>
 		<h3>Date : Today</h3>
 <h1> New Version of Java Web App -- Deploying on Kubernetes Cluster...... </h2>
+
+<h1> Updating page to check DEPLOYMENT </h2>
 </body>
 </html>
